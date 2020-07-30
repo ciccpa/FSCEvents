@@ -1,7 +1,7 @@
 # FSCEvents
 Event registration system created for Farmingdale State College (SUNY).
 
-This Application uses the following technologies
+This web application uses the following technologies:
 - PHP/PHP Data Objects (PDO)
 - JavaScript
 - jQuery

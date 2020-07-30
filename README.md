@@ -8,7 +8,7 @@ This web application uses the following technologies:
 - AJAX
 
 In order to run this project you will need the following database tables. Alternatively, you can download a backup of the database 
-using the file fsc_events_data.sql
+using the file: fsc_events_data.sql
 
 CREATE TABLE `fsc_Users` (
  `user_Id` int(11) NOT NULL AUTO_INCREMENT,

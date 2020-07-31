@@ -16,9 +16,6 @@ This web application uses the following technologies:
 
 ![81853347-4eb6f680-952a-11ea-8e92-132f1479b86f](https://user-images.githubusercontent.com/50625576/89063907-fc21f500-d336-11ea-99f2-f71c7b8ccdd3.png)
 
-
-![81853347-4eb6f680-952a-11ea-8e92-132f1479b86f](https://user-images.githubusercontent.com/50625576/89063923-05ab5d00-d337-11ea-8522-e1c4bd4581b4.png)
-
 ![81852788-9426f400-9529-11ea-994e-5a8a8df79a09](https://user-images.githubusercontent.com/50625576/89063941-0d6b0180-d337-11ea-8aa6-5250808c851b.png)
 
 In order to run this project you will need the following database tables. Alternatively, you can download a backup of the database 

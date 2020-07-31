@@ -7,6 +7,20 @@ This web application uses the following technologies:
 - jQuery
 - AJAX
 
+![81853953-2d0a3f00-952b-11ea-8c25-bbb1575eee34](https://user-images.githubusercontent.com/50625576/89063714-b1a07880-d336-11ea-9e65-f8a5089b081e.png)
+
+![81853647-b1a88d80-952a-11ea-83e1-5dcbcb9d9bc1](https://user-images.githubusercontent.com/50625576/89063846-e7ddf800-d336-11ea-8929-3f0deab183c3.png)
+
+
+![81853518-84f47600-952a-11ea-83c6-0c1f541b22fd](https://user-images.githubusercontent.com/50625576/89063871-f0cec980-d336-11ea-91a5-8b50c309ccb4.png)
+
+![81853347-4eb6f680-952a-11ea-8e92-132f1479b86f](https://user-images.githubusercontent.com/50625576/89063907-fc21f500-d336-11ea-99f2-f71c7b8ccdd3.png)
+
+
+![81853347-4eb6f680-952a-11ea-8e92-132f1479b86f](https://user-images.githubusercontent.com/50625576/89063923-05ab5d00-d337-11ea-8522-e1c4bd4581b4.png)
+
+![81852788-9426f400-9529-11ea-994e-5a8a8df79a09](https://user-images.githubusercontent.com/50625576/89063941-0d6b0180-d337-11ea-8aa6-5250808c851b.png)
+
 In order to run this project you will need the following database tables. Alternatively, you can download a backup of the database 
 using the file: fsc_events_data.sql
 

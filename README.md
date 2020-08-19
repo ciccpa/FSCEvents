@@ -3,7 +3,7 @@ Event registration system created for Farmingdale State College (SUNY).
 You can view the live site [here](fscevents.com).
 
 This web application uses the following technologies:
-- PHP/PHP Data Objects (PDO)
+- [PHP/PHP Data Objects (PDO)](https://www.php.net/manual/en/book.pdo.php).
 - JavaScript
 - jQuery
 - AJAX

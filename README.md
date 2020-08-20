@@ -41,4 +41,4 @@ This is where events are shown. To create an event, you must be an admin. The on
 
 This is can be due to a number of reasons listed [here](https://dev.mysql.com/doc/refman/8.0/en/gone-away.html).
 A possible solution would be to set wait_timeout when MySQL server begins. 
-This is issue can be ignored and will not affect use of the project.
+This issue can be ignored and will not affect use of the project.

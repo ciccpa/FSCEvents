@@ -33,7 +33,7 @@ This is where events are shown. To create an event, you must be an admin. The on
 
 ## Known issues
 
-- This site has NOT yet been fully optimized for mobile devices.
+- This site has NOT yet been fully optimized for all devices. Google Chrome would be the ideal browser to test in. 
 
 - Throughout use, you may get an error that looks something like this:
 

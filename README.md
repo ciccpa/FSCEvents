@@ -31,12 +31,14 @@ Lefthand side allows user to edit/enter details, righthand side displays events 
 This is where events are shown. To create an event, you must be an admin. The only way to become an admin is request administrative rights and an existing admin will have to promote your account.
 ![81852788-9426f400-9529-11ea-994e-5a8a8df79a09](https://user-images.githubusercontent.com/50625576/89063941-0d6b0180-d337-11ea-8aa6-5250808c851b.png)
 
-## Known issues.
+## Known issues
 
 - This site has NOT yet been fully optimized for mobile devices.
 
 - Throughout use, you may get an error that looks something like this:
+
 ``` [Warning]: PDO::__construct(): MySQL server has gone away ```
+
 This is can be due to a number of reasons listed [here](https://dev.mysql.com/doc/refman/8.0/en/gone-away.html).
 A possible solution would be to set wait_timeout when MySQL server begins. 
 This is issue can be ignored and will not affect use of the project.
